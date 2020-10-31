@@ -1,4 +1,4 @@
-# Simple-Python-Chatbot
+# Simple-statistical-methods-for-statistical-applications
 
-Creating a simple Python chatbot using natural language processing and deep learning.
+Creating a simple Python program to process data by applying different statistical methods for prediction and deep learning.
 
